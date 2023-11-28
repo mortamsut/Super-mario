@@ -1,4 +1,4 @@
-![image (7) (1)](https://github.com/mortamsut/Super-mario/assets/112867575/10e66258-7c58-4070-ba0d-6685db4121d4)# Super-mario
+# Super-mario
 The 'Super Mario' project is a sophisticated and engaging venture that involves the creation of a Mario game</br> 
 using the C++ programming language. At its core, this project is an embodiment of advanced</br> 
 Object-Oriented Programming (OOP) principles, showcasing the application of robust design patterns to enhance the game's structure and functionality.</br> 
